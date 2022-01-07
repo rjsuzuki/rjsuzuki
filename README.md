@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](https://metrics.lecoq.io/rjsuzuki?template=classic&config.timezone=America%2FLos_Angeles)
 
-[Insights](https://metrics.lecoq.io/about/rjsuzuki)
 
 ![Metrics](https://github.com/rjsuzuki/rjsuzuki/blob/main/github-metrics.svg)
 
