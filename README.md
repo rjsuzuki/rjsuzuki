@@ -1,4 +1,4 @@
-### Hi there 👋
+### Rjsuzuki 👋
 
 <!--
 **rjsuzuki/rjsuzuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Metrics](https://github.com/rjsuzuki/rjsuzuki/blob/main/github-metrics.svg)
-
 ![Metrics](https://metrics.lecoq.io/rjsuzuki?template=classic&config.timezone=America%2FLos_Angeles)
 
 [Insights](https://metrics.lecoq.io/about/rjsuzuki)
+
+![Metrics](https://github.com/rjsuzuki/rjsuzuki/blob/main/github-metrics.svg)
+
+
