@@ -17,7 +17,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           user: rjsuzuki
-          template: "@super-metrics"
+          template: classic
           setup_community_templates: octocat/metrics@master:super-metrics, octocat/metrics@master:trusted-metrics+trust
           base: header, activity, community, repositories, metadata
           config_timezone: America/Los_Angeles
