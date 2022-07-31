@@ -341,7 +341,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spotbugs/spotbugs-gradle-plugin</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -448,7 +448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>peaceiris/actions-gh-pages</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.</div>
@@ -501,7 +501,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>r0adkll/sign-android-release</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A GitHub action to sign an APK or AAB</div>
@@ -883,7 +883,7 @@ Bonus question : How can I can achieve to plot this 3d view (
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Jul 2022, 18:34:12 (timezone America/Los_Angeles) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 30 Jul 2022, 19:51:27 (timezone America/Los_Angeles) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
