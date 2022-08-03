@@ -341,7 +341,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JetBrains/JetBrainsRuntime</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux</div>
@@ -394,7 +394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>android/gradle-recipes</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ready-to-use recipes for common build customizations that showcase the Android Gradle plugin's public APIs and DSL.</div>
@@ -883,7 +883,7 @@ Bonus question : How can I can achieve to plot this 3d view (
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Aug 2022, 18:32:02 (timezone America/Los_Angeles) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 2 Aug 2022, 19:49:19 (timezone America/Los_Angeles) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
