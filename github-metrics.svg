@@ -345,7 +345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/google-java-format</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reformats Java source code to comply with Google Java Style.</div>
@@ -398,7 +398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pinterest/ktlint</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An anti-bikeshedding Kotlin linter with built-in formatter</div>
@@ -880,7 +880,7 @@ Bonus question : How can I can achieve to plot this 3d view (
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 May 2023, 20:03:10 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 May 2023, 21:03:11 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
