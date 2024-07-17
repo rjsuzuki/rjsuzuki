@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    17.3k added, 17.3k removed
+                                    21.7k added, 19.6k removed
                                 </div>
                             </section>
                             <section>
@@ -287,15 +287,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 63.5kb of code in 147 edited files across 25 commits over last 5 days</small>
+                <small>estimation from 65.3kb of code in 150 edited files across 26 commits over last 5 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="258.7664723130329" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="258.7664723130329" y="0" width="144.86333456910788" height="8" fill="#02303a"/>
-                    <rect mask="url(#languages-bar)" x="403.6298068821408" y="0" width="56.37019311785919" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.83502133893876" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="269.83502133893876" y="0" width="136.89534365246195" height="8" fill="#02303a"/>
+                    <rect mask="url(#languages-bar)" x="406.73036499140073" y="0" width="53.26963500859927" height="8" fill="#0060ac"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -307,8 +307,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>16.6 kB</div>
-                                <div>56.25%</div>
+                                <div>18.4 kB</div>
+                                <div>58.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -320,7 +320,7 @@
                             </div>
                             <small>
                                 <div>3.64 kB</div>
-                                <div>12.25%</div>
+                                <div>11.58%</div>
                             </small>
                         </div>
                     </section>
@@ -334,7 +334,7 @@
                             </div>
                             <small>
                                 <div>9.34 kB</div>
-                                <div>31.49%</div>
+                                <div>29.76%</div>
                             </small>
                         </div>
                     </section>
@@ -956,7 +956,7 @@ Bonus question : How can I can achieve to plot this 3d view (
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Jul 2024, 02:04:16 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jul 2024, 03:03:09 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
