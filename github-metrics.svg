@@ -287,15 +287,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 36.6kb of code in 82 edited files across 18 commits over last 7 days</small>
+                <small>estimation from 34.8kb of code in 79 edited files across 17 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.71475209140993" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="307.71475209140993" y="0" width="109.62660681493573" height="8" fill="#02303a"/>
-                    <rect mask="url(#languages-bar)" x="417.3413589063457" y="0" width="42.65864109365435" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="293.003300330033" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="293.003300330033" y="0" width="120.21703865301785" height="8" fill="#02303a"/>
+                    <rect mask="url(#languages-bar)" x="413.22033898305085" y="0" width="46.779661016949156" height="8" fill="#0060ac"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -307,8 +307,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>13.1 kB</div>
-                                <div>66.89%</div>
+                                <div>11.3 kB</div>
+                                <div>63.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -320,7 +320,7 @@
                             </div>
                             <small>
                                 <div>1.82 kB</div>
-                                <div>9.27%</div>
+                                <div>10.17%</div>
                             </small>
                         </div>
                     </section>
@@ -334,7 +334,7 @@
                             </div>
                             <small>
                                 <div>4.67 kB</div>
-                                <div>23.83%</div>
+                                <div>26.13%</div>
                             </small>
                         </div>
                     </section>
@@ -956,7 +956,7 @@ Bonus question : How can I can achieve to plot this 3d view (
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Jul 2024, 06:05:19 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jul 2024, 07:03:22 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
