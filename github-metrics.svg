@@ -289,7 +289,7 @@
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 4 days</small>
+                  over last 5 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
@@ -572,12 +572,12 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#2221 [ANDROID-5060] Add email verification UX for v3 sign-up flow</span>
+                                        <span class="issue">#2222 [ANDROID-5086] Fix linphone network manager not shut down correctly during linphone timeouts</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by rjsuzuki in <span class="repo">textme/textme-android</span></div>
-                                    <div class="comment">What if the user wants to modify only 1 of the numbers? With the suggested behavior, the user would delete the number, then the focus would go to a previous box, which would force the user to retouch the intended box in order to update the number.</div>
+                                    <div>opened by jason-Ii in <span class="repo">textme/textme-android</span></div>
+                                    <div class="comment">The DI for the ServiceScoped classes should be destroyed once the service is destroyed. Are you observing different behavior? If so, then something is causing a memory leak most likely.</div>
                                 </div>
                             </section>
                         </div>
@@ -589,11 +589,11 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#2221 [ANDROID-5060] Add email verification UX for v3 sign-up flow</span>
+                                        <span class="issue">#2222 [ANDROID-5086] Fix linphone network manager not shut down correctly during linphone timeouts</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">textme/textme-android</span></div>
+                                    <div>opened by jason-Ii in <span class="repo">textme/textme-android</span></div>
                                 </div>
                             </section>
                         </div>
@@ -610,7 +610,7 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by rjsuzuki in <span class="repo">textme/textme-android</span></div>
-                                    <div class="comment">Should we immediately resend the verification code when the user successfully updates the email address?</div>
+                                    <div class="comment">What if the user wants to modify only 1 of the numbers? With the suggested behavior, the user would delete the number, then the focus would go to a previous box, which would force the user to retouch the intended box in order to update the number.</div>
                                 </div>
                             </section>
                         </div>
@@ -899,7 +899,7 @@ Bonus question : How can I can achieve to plot this 3d view (
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Mar 2025, 03:03:30 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Mar 2025, 04:03:24 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
